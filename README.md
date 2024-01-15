@@ -1,1 +1,1 @@
-# Simple_C_Pointers
+# Pointers_C_Programming
